@@ -17,7 +17,7 @@ public class RuletaRusa {
     public static void main(String[] args) {
         // Creación del proyecto 
         
-        
+        System.out.println("Hola mundo.");
     }
     
 }
